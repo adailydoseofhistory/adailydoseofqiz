@@ -19,7 +19,7 @@
       the sheet every time someone visits.
    ========================================================= */
 
-const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/16hisy9H15Q4f0sLKx_IT9iytEjxuKtdinb4yNIFyrAA/edit?usp=sharing";
+const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRy_glZnUw3ISbY-w_pmzfenleKrY9jGYeAhI6Rp2gAHH_Z4n3JIpBimBT9khTkF-NCKp-LDPmWrLRK/pub?output=csv";
 
 /* Visit counter — free, no signup needed.
    Just keep this as-is; it auto-generates a unique badge per site. */
